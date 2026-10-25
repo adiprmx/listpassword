@@ -25,5 +25,5 @@ tidak meniru itu.
 
 ## Yang tetap sama dan diakui
 
-Bahan dasarnya tetap SecLists, lisensi MIT, atribusi lengkap di `ATTRIBUTION.md`
+Bahan dasarnya tetap SecLists, lisensi MIT, daftar sumber lengkap di `SOURCES.md`
 dan `SOURCES.md`. Repo ini tidak mengklaim SecLists sebagai karyanya.
